@@ -1,16 +1,21 @@
-## Hi there 👋
+## Привет, Я Адам 👋
 
-<!--
-**mnrlwatr/mnrlwatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📱 Contact
+*   [Telegram](https://t.me/mnrlwatr)
 
-Here are some ideas to get you started:
+## 🛠 Technical Stack
+*   Java Core, Multithreading, OOP, SOLID
+*   JUnit, Mockito, Maven
+*   JSON, XML 
+*   Java Servlet, RESTful API
+*   MySQL (DQL,DDL,DML)
+*   No practical experience:  Spring Framework,Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Courses 
+*   [Javarush](https://javarush.com)
+
+## 👥 Languages
+*   Uzbek (Native speaker)
+*   ‎Russian (C1)
+*   English (B1)
+
