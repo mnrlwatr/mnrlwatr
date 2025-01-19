@@ -8,7 +8,7 @@
 *   JUnit, Mockito, Maven
 *   JSON, XML 
 *   Java Servlet, RESTful API
-*   MySQL (DQL,DDL,DML)
+*   MySQL, Hibernate
 *   No practical experience:  Spring Framework,Spring Boot
 
 ## 📚 Courses 
