@@ -6,8 +6,7 @@
 ## 🛠 Technical Stack
 *   Java Core, Multithreading, OOP, SOLID
 *   JUnit, Mockito, Maven
-*   JSON, XML 
-*   Java Servlet, RESTful API
+*   Java Servlet, JSON, RESTful API
 *   MySQL, Hibernate
 *   No practical experience:  Spring Framework,Spring Boot
 
