@@ -1,7 +1,7 @@
 ## Привет, Я Адам 👋
 
 ## 📱 Contact
-*   [Telegram](https://t.me/mnrlwatr)
+*   [Telegram](https://t.me/adm_sayd)
 
 ## 🛠 Technical Stack
 *   Java Core, Multithreading, OOP, SOLID
