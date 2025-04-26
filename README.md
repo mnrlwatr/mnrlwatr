@@ -1,4 +1,5 @@
 ## Привет, Я Адам 👋
+Java Software Engineer with more than 2 years of experience (non-commercial)
 
 ## 📱 Contact
 *   [Telegram](https://t.me/adm_sayd)
