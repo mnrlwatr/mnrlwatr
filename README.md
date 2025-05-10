@@ -15,6 +15,6 @@ Java Software Engineer with 3 years of non-commercial experience.
 
 ## 👥 Languages
 *   Uzbek (Native speaker)
-*   ‎Russian (C1)
+*   ‎Russian (C2)
 *   English (B1)
 
