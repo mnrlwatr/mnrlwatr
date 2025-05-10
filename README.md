@@ -1,5 +1,5 @@
 ## Привет, Я Адам 👋
-Java Software Engineer with more than 2 years of experience (non-commercial)
+Java Software Engineer with 3 years of non-commercial experience. 
 
 ## 📱 Contact
 *   [Telegram](https://t.me/adm_sayd)
@@ -7,9 +7,8 @@ Java Software Engineer with more than 2 years of experience (non-commercial)
 ## 🛠 Technical Stack
 *   Java Core, Multithreading, OOP, SOLID
 *   JUnit, Maven, JSON
-*   Java Servlet, RESTful API
-*   MySQL, Hibernate
-*   No practical experience:  Spring Framework,Spring Boot
+*   Jakarta Servlet, REST API
+*   MySQL,  Hibernate,  Spring IoC/DI
 
 ## 📚 Courses 
 *   [Javarush](https://javarush.com)
