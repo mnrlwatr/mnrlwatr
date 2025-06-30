@@ -7,7 +7,7 @@ Java Software Engineer with 3 years of non-commercial experience.
 ## 🛠 Technical Stack
 *   Java Core, Multithreading, OOP, SOLID
 *   JUnit, Maven, JSON
-*   Jakarta Servlet, REST API
+*   Jakarta Servlet, HTTP
 *   MySQL,  Hibernate,  Spring IoC/DI
 
 ## 📚 Courses 
