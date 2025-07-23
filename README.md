@@ -5,7 +5,7 @@ Java Software Engineer with 3 years of non-commercial experience.
 *   [Telegram](https://t.me/adm_sayd)
 
 ## 🛠 Technical Stack
-*   Java Core, Multithreading, OOP, SOLID
+*   Java ,JavaScript, OOP, SOLID
 *   JUnit, Maven, JSON
 *   Jakarta Servlet, HTTP
 *   MySQL,  Hibernate,  Spring IoC/DI
